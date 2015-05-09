@@ -22,6 +22,7 @@ module altg {
       });
 
     $urlRouterProvider.otherwise('/');
-  })
-;
+
+  });
+  
 }
